@@ -4,10 +4,10 @@ Creates a heatmap of GPS signal strength based on nmea input.
 
 ## Usage
 
-ruby bin\parse_nmea.rb <input_directory> <latitude_step> <longitude_step>
+`ruby bin\parse_nmea.rb <input_directory> <latitude_step> <longitude_step>`
 
 Example:
-ruby bin\parse_nmea.rb input 0.01 0.5
+`ruby bin\parse_nmea.rb input 0.01 0.5`
 
 Input directory has contain text files with nmea information.
 
