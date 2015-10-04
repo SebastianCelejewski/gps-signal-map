@@ -1,0 +1,14 @@
+	<Placemark>
+		<name>$name</name>
+		<styleUrl>$styleName</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						$coordinates
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>

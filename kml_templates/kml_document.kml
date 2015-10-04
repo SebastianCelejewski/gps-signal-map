@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Folder bez nazwy.kml</name>
+	<Style id="sn_shaded_dot_00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_05">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_05">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0080ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f0080ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_15">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0040ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_15">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f0040ff</color>
+		</PolyStyle>
+	</Style>
+
+	<Style id="sn_shaded_dot_20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0080ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f0080ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_25">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00C0ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_25">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f00C0ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00FFff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f00FFff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_35">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00FFc0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_35">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f00FFc0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_40">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00FF80</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_40">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f00FF80</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_45">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00FF40</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_45">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f00FF40</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot_50">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot_50">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+
+	<StyleMap id="msn_shaded_dot_00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_05</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot_50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot_50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>$name</name>
+		<open>1</open>
+	</Folder>
+	$placemarks
+</Document>
+</kml>
